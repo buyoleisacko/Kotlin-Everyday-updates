@@ -1,3 +1,5 @@
+
+
 # Kotlin-Everyday-updates
 
 
@@ -114,4 +116,6 @@ Kotlin Arrays:
 Array is a complex data type which handles a collection of elements. Each of the elements can be accessed by an index. All the elements of an array must be of the same data type.
 
 Single line Expressions in Kotlin;
+
+<img width="1271" alt="Screenshot 2021-03-16 at 18 50 48" src="https://user-images.githubusercontent.com/61009255/111339206-a103ff00-8688-11eb-9400-a093ad01649a.png">
 
