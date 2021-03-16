@@ -117,4 +117,8 @@ Array is a complex data type which handles a collection of elements. Each of the
 
 Single line Expressions in Kotlin;
 
+How to use function arguments in Kotlin:
+It is used by passing in the parameters in between the parantheses.
+Arguments are passed by value; that is, when a function is called, the parameter receives a copy of the argument's value, not its address. This rule applies to all scalar values, structures, and unions passed as arguments. Modifying a parameter does not modify the corresponding argument passed by the function call.
+
 
