@@ -117,5 +117,19 @@ Array is a complex data type which handles a collection of elements. Each of the
 
 Single line Expressions in Kotlin;
 
-<img width="1271" alt="Screenshot 2021-03-16 at 18 50 48" src="https://user-images.githubusercontent.com/61009255/111339206-a103ff00-8688-11eb-9400-a093ad01649a.png">
+//Single line Expressions in Kotlin
+fun main(){
+    sayHi()
+    val age = 32
+    fun dowork(){
+        if (age < 21){
+            println("Less than 21")
+        }else{
+            println("eligible")
+        }
+    }
+    dowork()
+}
+
+fun sayHi() = println("Hi")
 
