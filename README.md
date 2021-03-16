@@ -112,3 +112,6 @@ A String is a data type representing textual data in computer programs. A string
 
 Kotlin Arrays:
 Array is a complex data type which handles a collection of elements. Each of the elements can be accessed by an index. All the elements of an array must be of the same data type.
+
+Single line Expressions in Kotlin;
+
