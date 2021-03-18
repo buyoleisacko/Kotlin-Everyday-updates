@@ -121,4 +121,16 @@ How to use function arguments in Kotlin:
 It is used by passing in the parameters in between the parantheses.
 Arguments are passed by value; that is, when a function is called, the parameter receives a copy of the argument's value, not its address. This rule applies to all scalar values, structures, and unions passed as arguments. Modifying a parameter does not modify the corresponding argument passed by the function call.
 
+How to use named parameters in kotlin functions.
+We use the name of the parameters, this is to make the code readable on other IDE's like visual studio.
+
+How to use default argument values in Kotlin.
+By providing default argument we avoid repetition, we do so by specifying the default value for an argument.This cleans up the code such that we only see the relevant code.
+
+Function refactoring to new lines and named arguments in intelliJ.
+This saves us time and makes the code more readble.
+
+
+
+
 
