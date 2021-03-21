@@ -130,7 +130,11 @@ By providing default argument we avoid repetition, we do so by specifying the de
 Function refactoring to new lines and named arguments in intelliJ.
 This saves us time and makes the code more readble.
 
+How to provide multiple arguments of the same type with vararg.
+vararg means variable argument.
+we write the values in plural.
 
 
-
+How to create a class in Kotlin
+class is a reusable template.
 
