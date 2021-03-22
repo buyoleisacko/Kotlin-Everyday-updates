@@ -138,3 +138,37 @@ we write the values in plural.
 How to create a class in Kotlin
 class is a reusable template.
 
+Primary class constructors in kotlin.
+We add constructor after class. 
+We set default values inside primary constructors.
+
+How to use multiple constructors in a kotlin class.
+We can have a secondary constructor inside another class constructor and we use the constructor keyword.
+
+How to use the kotlin init block.
+It is called after the primary constructor.
+
+How to use class properties.
+
+How to use multiple properties in a kotlin class
+
+How to create a function inside a kotlin class.
+
+Kotlin companion objects.
+We use the companion object keyword.
+we use foreach to have a nice looking output; it uses it by default.
+
+How to create a singleton in Kotlin.
+    WE create the singleton by replacing the class word with objects. We can put methods inside of here as well.
+    
+    How to declare constants in kotlin
+    
+    How to use the kotlin lateinit modifier; this is basically used to indicate that you are going to initialize that particular property later. It must be used with a var because we're allowed to use it only on mutable properties.
+    
+    Kotlin Nested Class;  kotlin allows us to create a class inside another class.
+    
+    Kotlin innerclass; for the nested class to have access to a variable we use inner class keyword.
+    
+    How to create an enum in Kotlin.
+    How to use kotlin when expression.
+    Exhaustive and non-exhaustive when expression in kotlin
